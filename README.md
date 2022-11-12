@@ -4,9 +4,7 @@ Detection of brain tumor presence in MRI images to reduce evaluation load by doc
 
 Dataset: https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor
 
-Test Accuracy: 97.77 %
-Test TPR (True Positive Rate): 97.03 %
-Test TNR (True Negative Rate): 98.52 %
+Test Accuracy: 97.77 %, Test TPR (True Positive Rate): 97.03 %, Test TNR (True Negative Rate): 98.52 %
 
 Sample Images:
 
